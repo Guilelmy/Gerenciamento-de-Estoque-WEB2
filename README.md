@@ -1,2 +1,3 @@
 # Trabalho final de PWEB2 - Gerenciamento de Estoque
-teste
+
+Dsenvolvido por: Guilhermy Pereira de Aquino e Luan Coelho Galdiano
